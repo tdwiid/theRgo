@@ -1,0 +1,6 @@
+# github.com/senseyeio/roger v0.0.0-20191009211040-43e330bee47f
+## explicit
+github.com/senseyeio/roger
+github.com/senseyeio/roger/assign
+github.com/senseyeio/roger/constants
+github.com/senseyeio/roger/sexp
